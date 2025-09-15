@@ -3,8 +3,8 @@ package parsers
 import (
 	"strconv"
 
-	"github.com/ingridhq/zebrash/internal/elements"
-	"github.com/ingridhq/zebrash/internal/printers"
+	"github.com/podeszfa/zebrash/internal/elements"
+	"github.com/podeszfa/zebrash/internal/printers"
 )
 
 func NewFieldTypesetParser() *CommandParser {

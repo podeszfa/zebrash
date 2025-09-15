@@ -3,7 +3,7 @@ package datamatrix
 import (
 	"fmt"
 
-	"github.com/ingridhq/zebrash/internal/barcodes/datamatrix/encoder"
+	"github.com/podeszfa/zebrash/internal/barcodes/datamatrix/encoder"
 )
 
 // DataMatrixWriter This object renders a Data Matrix code as a BitMatrix 2D array of greyscale values.

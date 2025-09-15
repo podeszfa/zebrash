@@ -4,7 +4,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/ingridhq/zebrash/internal/images"
+	"github.com/podeszfa/zebrash/internal/images"
 )
 
 // Allocate at least 10 pixels for each bar in the barcode

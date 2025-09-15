@@ -4,7 +4,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ingridhq/zebrash/internal/barcodes/utils"
+	"github.com/podeszfa/zebrash/internal/barcodes/utils"
 )
 
 type encodingMode byte
