@@ -73,6 +73,11 @@ func TestDrawLabelAsPng(t *testing.T) {
 			dstPath: "dhlparceluk.png",
 		},
 		{
+			name:    "DHL ECommerce TR",
+			srcPath: "dhlecommercetr.zpl",
+			dstPath: "dhlecommercetr.png",
+		},
+		{
 			name:    "ICA Paket",
 			srcPath: "icapaket.zpl",
 			dstPath: "icapaket.png",
@@ -251,6 +256,11 @@ func TestDrawLabelAsPng(t *testing.T) {
 			name:    "Aztec barcode error correction",
 			srcPath: "aztec_ec.zpl",
 			dstPath: "aztec_ec.png",
+		},
+		{
+			name:    "QR code with offset",
+			srcPath: "qr_code_offset.zpl",
+			dstPath: "qr_code_offset.png",
 		},
 	}
 
