@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"image"
 
-	"github.com/ingridhq/zebrash/internal/barcodes/utils"
-	"github.com/ingridhq/zebrash/internal/images"
+	"github.com/podeszfa/zebrash/internal/barcodes/utils"
+	"github.com/podeszfa/zebrash/internal/images"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math/bits"
 
-	"github.com/ingridhq/zebrash/internal/barcodes/utils"
+	"github.com/podeszfa/zebrash/internal/barcodes/utils"
 )
 
 var (

@@ -10,9 +10,9 @@ import (
 
 	"github.com/fogleman/gg"
 	"github.com/golang/freetype/truetype"
-	"github.com/ingridhq/zebrash/drawers"
-	"github.com/ingridhq/zebrash/internal/barcodes/code128"
-	"github.com/ingridhq/zebrash/internal/elements"
+	"github.com/podeszfa/zebrash/drawers"
+	"github.com/podeszfa/zebrash/internal/barcodes/code128"
+	"github.com/podeszfa/zebrash/internal/elements"
 )
 
 const (

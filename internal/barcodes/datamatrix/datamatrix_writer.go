@@ -3,8 +3,8 @@ package datamatrix
 import (
 	"fmt"
 
-	"github.com/ingridhq/zebrash/internal/barcodes/datamatrix/encoder"
-	"github.com/ingridhq/zebrash/internal/barcodes/utils"
+	"github.com/podeszfa/zebrash/internal/barcodes/datamatrix/encoder"
+	"github.com/podeszfa/zebrash/internal/barcodes/utils"
 )
 
 func Encode(contents string, width, height int, opts encoder.Options) (*utils.BitMatrix, error) {

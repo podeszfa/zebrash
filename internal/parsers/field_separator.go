@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ingridhq/zebrash/internal/elements"
-	"github.com/ingridhq/zebrash/internal/printers"
+	"github.com/podeszfa/zebrash/internal/elements"
+	"github.com/podeszfa/zebrash/internal/printers"
 	"golang.org/x/text/encoding/charmap"
 )
 

@@ -1,7 +1,7 @@
 package printers
 
 import (
-	"github.com/ingridhq/zebrash/internal/elements"
+	"github.com/podeszfa/zebrash/internal/elements"
 )
 
 type VirtualPrinter struct {

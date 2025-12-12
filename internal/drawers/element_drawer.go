@@ -4,9 +4,9 @@ import (
 	"image"
 
 	"github.com/fogleman/gg"
-	"github.com/ingridhq/zebrash/drawers"
-	"github.com/ingridhq/zebrash/internal/elements"
-	"github.com/ingridhq/zebrash/internal/images"
+	"github.com/podeszfa/zebrash/drawers"
+	"github.com/podeszfa/zebrash/internal/elements"
+	"github.com/podeszfa/zebrash/internal/images"
 )
 
 type ElementDrawer struct {

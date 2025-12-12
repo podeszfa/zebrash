@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/ingridhq/zebrash/drawers"
+	"github.com/podeszfa/zebrash/drawers"
 )
 
 func TestDrawLabelAsPng(t *testing.T) {
